@@ -38,6 +38,7 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
@@ -1247,7 +1248,10 @@ to explore life. Also, Python and Django Developer
  - Place: Philippines
  - Bio: PHP Developer
  - Github: [jusdeleon](https://github.com/jusdeleon)
-
+#### Name: [Mrigank Tandon](https://github.com/Mrigank-Tandon)
+ - Place: India
+ - Bio: Student
+ - GitHub [Mrigank Tandon](https://github.com/Mrigank-Tandon)
 #### Name: [K Foster](https://foster.im)
 - Place: West Sussex, UK
 - Bio: Web Developer
